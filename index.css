@@ -33,37 +33,36 @@
         justify-content: center;
         justify-items: center;
         border-radius: 15px;
-        padding: 30px;
-        height: 500px;
-        width: 300px;
+        padding: 3%;
+        height: 70%;
+        width: 20%;
         background-color:hsl(0, 0%, 12%) ;
     
     }
 
     .jessicaIcon {
         border-radius: 50%;
-        width: 25%;
+        width: 30%;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 20px;
-        margin-bottom: 15px;
+        margin-top: 2vh;
+        margin-bottom: 2vh;
     }
 
     .name{  
         color: white;
         font-weight: 400;
         font-family: 'Inter';
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 0;
+        margin-top: 0;
     }
 
     .location{
-        margin-top: 0px;
-        margin-bottom: 15px; 
         font-size: 14px;
         font-weight: 600;
         font-family: 'Inter';
         color: hsl(75, 94%, 57%);
+        margin-top: 1vh;
     }
 
     .aboutMe {
@@ -71,8 +70,8 @@
         font-size: 14px;
         font-weight: 400;
         font-family: 'Inter';
-        margin-top: 10px;
-        margin-bottom: 25px;
+        margin-top: 3vh; 
+        margin-bottom: 3vh;
     }
 
 
@@ -83,8 +82,9 @@
         border: none;
         font-size: 14px;
         border-radius: 8px;
-        padding: 13px;
-        margin-bottom: 13px;
+        padding: 2vw;
+        padding: 2vh;
+        margin-bottom: 2vh;
         font-weight: 700;
         font-family: 'Inter';
 
