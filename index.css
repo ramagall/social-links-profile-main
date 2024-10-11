@@ -33,6 +33,7 @@
     }
 
     .jessicaIcon {
+        display: flex;
         border-radius: 50%;
         width: 30%;
         margin-left: auto;
@@ -69,6 +70,9 @@
 
 
     button {
+        display: flex;
+        text-align: center;
+        justify-content: center;
         background-color: hsl(0, 0%, 20%);
         color: hsl(0, 0%, 100%);
         border: none;
