@@ -14,11 +14,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This goal is to make a social links profile that looks as similar as possible to the given image:
+![](./preview.jpg)
 
 ### The challenge
 
@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ramagall.github.io/social-links-profile-main/)
 
 ## My process
 I started out with the HTML which is pretty basic considering there are very little pieces to this challenge. Then I spent most of the time messing with css to find the right values that looked like that version I was attempting to mimic.
@@ -49,7 +49,7 @@ I started out with the HTML which is pretty basic considering there are very lit
 
 ### What I learned
 
-This project got me more comfortable with using flexboxes to control the layout of my webpage.
+This project got me more comfortable with using flexboxes to control the layout of my webpage. I also learned about some weird quirks with ios that would make images appear differently if there aren't set heights and widths. 
 
 ### Continued development
 
