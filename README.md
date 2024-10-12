@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ramagall.github.io/social-links-profile-main/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-with-just-flex-boxes-y2BDEDrJND)
+- Live Site URL: [Live site URL here](https://ramagall.github.io/social-links-profile-main/)
 
 ## My process
 I started out with the HTML which is pretty basic considering there are very little pieces to this challenge. Then I spent most of the time messing with css to find the right values that looked like that version I was attempting to mimic.
