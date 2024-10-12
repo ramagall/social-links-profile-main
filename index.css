@@ -45,7 +45,7 @@
 
     .name{  
         color: white;
-        font-weight: 400;
+        font-weight: 700;
         font-family: 'Inter';
         margin-bottom: 0;
         margin-top: 0;
@@ -53,7 +53,7 @@
 
     .location{
         font-size: 14px;
-        font-weight: 600;
+        font-weight: bold;
         font-family: 'Inter';
         color: hsl(75, 94%, 57%);
         margin-top: 10px;
