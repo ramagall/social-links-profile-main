@@ -1,6 +1,7 @@
 
     
     html {
+        display: -webkit-flex;
         display: flex;
         justify-items: center;
         justify-content: center;
@@ -9,6 +10,7 @@
     }
 
     body {
+        display: -webkit-flex;
         display: flex;
         height: 100%;
         width: 100%;
@@ -20,6 +22,7 @@
     }
     
     .socialsCard {
+        display: -webkit-flex;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -33,6 +36,7 @@
     }
 
     .jessicaIcon {
+        display: -webkit-flex;
         display: flex;
         border-radius: 50%;
         width: 30%;
@@ -70,6 +74,7 @@
 
 
     button {
+        display: -webkit-flex;
         display: flex;
         text-align: center;
         justify-content: center;
