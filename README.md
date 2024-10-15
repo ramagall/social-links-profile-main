@@ -45,7 +45,6 @@ I started out with the HTML which is pretty basic considering there are very lit
 - CSS custom properties
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
